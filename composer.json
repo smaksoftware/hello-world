@@ -1,0 +1,20 @@
+{
+    "name": "mustafa/hello-world",
+    "description": "Merhaba dünya yazdıran paket",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Seyit Mustafa Adem KANDEMİR",
+            "email": "34190357+seyitmustafaademk@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "smaksoftware\\helloworld\\": "src/"
+        }
+    },
+
+    "require": {}
+}
